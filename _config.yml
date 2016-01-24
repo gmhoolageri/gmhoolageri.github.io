@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gmhoolageri.github.io
+title: gmhoolageri
+tagline: Technology breadcrumb
+description: My awesome new blog which captures what I have learnt in my 10 years of journey in the IT industry
+paginate: 5
